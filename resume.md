@@ -1,37 +1,33 @@
-Johnny Coder
+Theo Massard
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Developpeur Back-end\
+>  Python et Golang
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2015-2017
+:   **Ecole Preparatoire de Cycle d'ingenieur Informatique**; Prep'ETNA (Ivry-sur-Seine)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    * Cursus Generaliste d'informatique initiant aux Technologies du Web, mobile... *
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2012-2015
+:   **Baccalaureat Scientifique, Specialisation Informatique et Sciences du Numerique**; Lycee Carnot (Paris)
 
     *Minor: Awesomeology*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+** Developpeur Back-end / DevOps **
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Amelioration d'un moteur de scraping en Python, recherche et developpement en Golang.
+Mise en place d'une chaine de production et de developpement basee sur des outils Open Source.
 
 * First item
 
@@ -98,3 +94,4 @@ Extra Section, Call it Whatever You Want
 
 > <email@example.com> • +00 (0)00 000 0000 • XX years old\
 > address - Mytown, Mycountry
+
