@@ -3,31 +3,36 @@ Theo Massard
 
 ----
 
->  Developpeur Back-end\
->  Python et Golang
+>  Etudiant en Cycle Ingenieur en Informatique\
+>  Profil **DevOps** et **Developpeur Back-end**\
+>  Adept du **Python** et **Golang**
 
 ----
 
-Education
+Formation
 ---------
 
+2017-2020
+:   *iiiiiii*
 2015-2017
-:   **Ecole Preparatoire de Cycle d'ingenieur Informatique**; Prep'ETNA (Ivry-sur-Seine)
+:   **Preparation de Cycle Ingenieur en Informatique**; Prep'ETNA (Ivry-sur-Seine)
 
-    * Cursus Generaliste d'informatique initiant aux Technologies du Web, mobile... *
+    *Cursus generaliste, melant technologies du Web, Developpement d'application
+    et Administration de systemes et reseaux*
 
 2012-2015
-:   **Baccalaureat Scientifique, Specialisation Informatique et Sciences du Numerique**; Lycee Carnot (Paris)
+:   **Baccalaureat Scientifique**; Lycee Carnot (Paris 17e)
 
-    *Minor: Awesomeology*
+    *Option Informatique et Sciences du Numerique*
 
 Experience
 ----------
 
-** Developpeur Back-end / DevOps **
+**Your Most Recent Work Experience:**
 
-Amelioration d'un moteur de scraping en Python, recherche et developpement en Golang.
-Mise en place d'une chaine de production et de developpement basee sur des outils Open Source.
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
 
 * First item
 
@@ -94,4 +99,3 @@ Extra Section, Call it Whatever You Want
 
 > <email@example.com> • +00 (0)00 000 0000 • XX years old\
 > address - Mytown, Mycountry
-
