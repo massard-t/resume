@@ -43,7 +43,7 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    background-color: #3498db;
 }
 h2:hover {
     background-color: #397249;
