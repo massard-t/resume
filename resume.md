@@ -49,14 +49,14 @@ Projet Kimy
 :  Création d'un outil de gestion de qualité de code
    Gestion d'intégration continue, avec une application desktop.
 
-    * Application lourde en **Node.js** (Electron)
+    * Application lourde en **Node.js** (Electron) Backend et API en **Golang**
 
-    * Backend et API en **Golang**
+    * Utilisation de Redis, Docker, Elasticsearch
 
 Github
 :  Plusieurs dépots publics, et contributions open-sources: [github.com/massard-t](https://github.com/massard-t/)
 
-Informations
+A propos de moi
 ----------------------------------------
 
 * Langues: français, anglais, bases de russe et allemand
