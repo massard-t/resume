@@ -1,11 +1,12 @@
-Theo Massard
+Théo Massard
 ============
 
 ----
 
->  Etudiant en Cycle Ingenieur en Informatique\
->  Profil **DevOps** et **Developpeur Back-end**\
->  Adept du **Python** et **Golang**
+>  Etudiant en Cycle Ingénieur Informatique \
+> *Contrat de professionnalisation*\
+>  Profil **DevOps** et **Développeur Backend**\
+>  Adepte du **Python** et **Golang**
 
 ----
 
@@ -13,89 +14,59 @@ Formation
 ---------
 
 2017-2020
-:   *iiiiiii*
+:   **Cycle Ingénieur en Informatique**; ETNA (Ivry-sur-Seine)
+
+    *Année de Bachelor, puis spécialisation en Développement Applicatif*
+
 2015-2017
 :   **Preparation de Cycle Ingenieur en Informatique**; Prep'ETNA (Ivry-sur-Seine)
 
-    *Cursus generaliste, melant technologies du Web, Developpement d'application
-    et Administration de systemes et reseaux*
+    *Cursus généraliste, mêlant technologies du Web, développement d'application
+    et qdministration de systèmes et réseaux*
 
 2012-2015
-:   **Baccalaureat Scientifique**; Lycee Carnot (Paris 17e)
+:   **Baccalauréat Scientifique**; Lycée Carnot (Paris 17e)
 
-    *Option Informatique et Sciences du Numerique*
+    *Option Informatique et Sciences du Numérique*
 
-Experience
+Expérience Professionelle
 ----------
 
-**Your Most Recent Work Experience:**
+**Développeur Backend - DevOps** Chez Reezocar *Juin - Décembre 2016*
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Stage de 6 mois
 
-* First item
+* Amélioration du moteur de Web Scrapping en Python.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Développement d'une chaine de production sous Docker.
 
-**That Other Job You Had**
+* Mise en place d'un dispositif de centralisation des logs applicatifs.
 
-Also with a short description.
-
-Technical Experience
+Autres expériences
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Projet Kimy
+:  Création d'un outil de gestion de qualité de code
+   Gestion d'intégration continue, avec une application desktop.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+    * Application lourde en **Node.js** (Electron)
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+    * Backend et API en **Golang**
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Github
+:  Plusieurs dépots publics, et contributions open-sources: [github.com/massard-t](https://github.com/massard-t/)
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
+Informations
 ----------------------------------------
 
-* Human Languages:
+* Langues: français, anglais, bases de russe et allemand
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+* Veille technologique quotidienne
 
-* Random tidbit
+* Passioné d'arts martiaux
 
-* Other sort of impressive-sounding thing you did
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <massar_t@etna-alternance.net> • +33 (0)6 34633054 • 20 ans\
+> adresse - Sartrouville  (78)
