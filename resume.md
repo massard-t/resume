@@ -3,7 +3,7 @@ Théo Massard
 
 ----
 
->  Etudiant en Cycle Ingénieur Informatique \
+>  Etudiant en Cycle d'Ingénierie Informatique \
 > *Contrat de professionnalisation*\
 >  Profil **DevOps** et **Développeur Backend**\
 >  Adepte du **Python** et **Golang**
@@ -14,12 +14,12 @@ Formation
 ---------
 
 2017-2020
-:   **Cycle Ingénieur en Informatique**; ETNA (Ivry-sur-Seine)
+:   **Cycle d'Ingénierie en Informatique**; ETNA (Ivry-sur-Seine)
 
     *Année de Bachelor, puis spécialisation en Développement Applicatif*
 
 2015-2017
-:   **Preparation de Cycle Ingenieur en Informatique**; Prep'ETNA (Ivry-sur-Seine)
+:   **Preparation de Cycle d'Ingénierie en Informatique**; Prep'ETNA (Ivry-sur-Seine)
 
     *Cursus généraliste, mêlant technologies du Web, développement d'application
     et qdministration de systèmes et réseaux*
