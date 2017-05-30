@@ -22,7 +22,7 @@ Formation
 :   **Preparation de Cycle d'Ingénierie en Informatique**; Prep'ETNA (Ivry-sur-Seine)
 
     *Cursus généraliste, mêlant technologies du Web, développement d'application
-    et qdministration de systèmes et réseaux*
+    et administration de systèmes et réseaux*
 
 2012-2015
 :   **Baccalauréat Scientifique**; Lycée Carnot (Paris 17e)
