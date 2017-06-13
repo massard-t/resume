@@ -1,72 +1,72 @@
-Théo Massard
+Theo Massard
 ============
 
 ----
 
->  Etudiant en Cycle d'Ingénierie Informatique \
-> *Contrat de professionnalisation*\
->  Profil **DevOps** et **Développeur Backend**\
->  Adepte du **Python** et **Golang**
+> Student in Computer Engineering Cycle \
+> *Professionalization contract*
+> Profile **DevOps** and **Backend Developer** \
+> Adept of **Python** and **Golang**
 
 ----
 
-Formation
+Training
 ---------
 
 2017-2020
-:   **Cycle d'Ingénierie en Informatique**; ETNA (Ivry-sur-Seine)
+: **Cycle of Engineering in Computer Science**; ETNA (Ivry-sur-Seine)
 
-    *Année de Bachelor, puis spécialisation en Développement Applicatif*
+    *Bachelor's degree, then Specialization in Business Development*
 
 2015-2017
-:   **Preparation de Cycle d'Ingénierie en Informatique**; Prep'ETNA (Ivry-sur-Seine)
+: **Preparation of Cycle of Engineering in Computer Science**; Prep'ETNA (Ivry-sur-Seine)
 
-    *Cursus généraliste, mêlant technologies du Web, développement d'application
-    et administration de systèmes et réseaux*
+    *Generalist curriculum, mixing web technologies, application development
+    And system and network administration*
 
 2012-2015
-:   **Baccalauréat Scientifique**; Lycée Carnot (Paris 17e)
+: **Baccalauréat Scientifique**; Lycée Carnot (Paris 17th)
 
-    *Option Informatique et Sciences du Numérique*
+    *Option Computing and Digital Sciences*
 
-Expérience Professionelle
+Professional experience
 ----------
 
-**Développeur Backend - DevOps** Chez Reezocar *Juin - Décembre 2016*
+**Developer Backend - DevOps** At Reezocar *June - December 2016*
 
-Stage de 6 mois
+Internship of 6 months
 
-* Amélioration du moteur de Web Scrapping en Python.
+* Improved Web Scrapping Engine in Python.
 
-* Développement d'une chaine de production sous Docker.
+* Development of a production line under Docker.
 
-* Mise en place d'un dispositif de centralisation des logs applicatifs.
+* Implementation of a centralization of application logs.
 
-Autres expériences
+Other experiences
 --------------------
 
-Projet Kimy
-:  Création d'un outil de gestion de qualité de code
-   Gestion d'intégration continue, avec une application desktop.
+Project Kimy
+: Creating a Code Quality Management Tool
+   Continuous integration management, with a desktop application.
 
-    * Application lourde en **Node.js** (Electron) Backend et API en **Golang**
+    * Heavy application in **Node.js** (Electron) Backend and API in **Golang**
 
-    * Utilisation de Redis, Docker, Elasticsearch
+    * Using Redis, Docker, Elasticsearch
 
 Github
-:  Plusieurs dépots publics, et contributions open-sources: [github.com/massard-t](https://github.com/massard-t/)
+: Several public deposits, and open-source contributions: [github.com/massard-t](https://github.com/massard-t/)
 
-A propos de moi
+About me
 ----------------------------------------
 
-* Langues: français, anglais, bases de russe et allemand
+* Languages: French, English, bases of Russian and German
 
-* Veille technologique quotidienne
+* Daily Technology Monitoring
 
-* Passioné d'arts martiaux
+* Passionate about martial arts
 
 
 ----
 
-> <massar_t@etna-alternance.net> • +33 (0)6 34633054 • 20 ans\
-> adresse - Sartrouville  (78)
+> <massar_t@etna-alternance.net> • +33 (0) 6 34633054 • 20 years old \
+> Address - Sartrouville (78)
