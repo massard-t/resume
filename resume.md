@@ -1,11 +1,11 @@
-Théo Massard
+Développeur Backend
 ============
 
 ----
 
->  Etudiant en Cycle d'Ingénierie Informatique \
->  Profil **Développeur Backend**\
->  Développeur **Python**
+>  Théo Massard \
+>  Développeur **Python** \
+>  Etudiant en Cycle d'Ingénierie Informatique
 
 ----
 
