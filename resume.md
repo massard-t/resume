@@ -4,9 +4,8 @@ Théo Massard
 ----
 
 >  Etudiant en Cycle d'Ingénierie Informatique \
-> *Contrat de professionnalisation*\
->  Profil **DevOps** et **Développeur Backend**\
->  Adepte du **Python** et **Golang**
+>  Profil **Développeur Backend**\
+>  Développeur **Python**
 
 ----
 
@@ -14,15 +13,9 @@ Formation
 ---------
 
 2017-2020
-:   **Cycle d'Ingénierie en Informatique**; ETNA (Ivry-sur-Seine)
+:   **2015-2020 - Cycle d’ingénierie : **; ETNA (Ivry-sur-Seine)
 
-    *Année de Bachelor, puis spécialisation en Développement Applicatif*
-
-2015-2017
-:   **Preparation de Cycle d'Ingénierie en Informatique**; Prep'ETNA (Ivry-sur-Seine)
-
-    *Cursus généraliste, mêlant technologies du Web, développement d'application
-    et administration de systèmes et réseaux*
+    *Architecte système réseaux et sécurité*
 
 2012-2015
 :   **Baccalauréat Scientifique**; Lycée Carnot (Paris 17e)
@@ -38,20 +31,26 @@ Stage de 6 mois
 
 * Amélioration du moteur de Web Scrapping en Python.
 
-* Développement d'une chaine de production sous Docker.
+* Création d'APIs en Python (Flask).
 
 * Mise en place d'un dispositif de centralisation des logs applicatifs.
 
 Autres expériences
 --------------------
 
-Projet Kimy
-:  Création d'un outil de gestion de qualité de code
-   Gestion d'intégration continue, avec une application desktop.
+SDC-VIRT (virty)
+:  Code camp sur la Virtualisation
+   Création d'un outil de gestion de container
 
-    * Application lourde en **Node.js** (Electron) Backend et API en **Golang**
+    * Utilisation du module Docker
 
-    * Utilisation de Redis, Docker, Elasticsearch
+    * Création d'une API Flask, back-end basé sur RabbitMQ
+
+MDF 2016
+:  Concours du Meilleur Dev' de France
+   organisé par Criteo en Mars 2016
+
+    * Classé 218è global/32è en Python
 
 Github
 :  Plusieurs dépots publics, et contributions open-sources: [github.com/massard-t](https://github.com/massard-t/)
@@ -64,7 +63,6 @@ A propos de moi
 * Veille technologique quotidienne
 
 * Passioné d'arts martiaux
-
 
 ----
 
