@@ -1,0 +1,171 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "work": "",
+    "awards": ""
+  },
+  "basics": {
+    "name": "Theo MASSARD",
+    "email": "massar_t@etna-alternance.net",
+    "phone": "+33 6 34 63 30 54",
+    "location": {
+      "address": "Paris, France"
+    },
+    "website": "https://www.linkedin.com/in/theomassard/"
+  },
+  "education": [
+    {
+      "institution": "ETNA, école d'alternance en informatique",
+      "location": "Ivry-sur-Seine, France",
+      "area": " Master Architecte système, réseau et sécurité - ISR",
+      "startDate": "Sep 2015",
+      "endDate": "Nov 2020"
+    },
+    {
+      "location": "Paris, France",
+      "studyType": "Baccalaureat S - ISN",
+      "startDate": "Sep 2012",
+      "endDate": "Jun 2015",
+      "gpa": "",
+      "institution": "Lycee Carnot"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Server fleet management",
+        "Research and development",
+        "AWS and GCP administration",
+        "AWS to GCP fleet migration",
+        "Setup monitoring and observability open source solutions",
+        "Infrastructure management"
+      ],
+      "company": "Memento",
+      "position": "DevOps",
+      "location": "Paris, France",
+      "startDate": "Jan 2019",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Teach Python, Windows Server administration, Basic linux system administration and Networking basics.",
+        "Manage student from 1st to 4th year",
+        "Content creation and online video courses",
+        "Grade student presentations"
+      ],
+      "company": "ETNA",
+      "position": "Information Technology Teacher",
+      "location": "Ivry-sur-Seine, France",
+      "startDate": "Jan 2019",
+      "endDate": "Present"
+    },
+    {
+      "highlights": [
+        "Python application development",
+        "Incident management",
+        "Manage production servers"
+      ],
+      "company": "1000Mercis (numberly)",
+      "position": "DevOps Engineer Assistant",
+      "location": "Paris, France",
+      "startDate": "Oct 2017",
+      "endDate": "Dec 2018"
+    },
+    {
+      "company": "Reezocar",
+      "location": "Boulogne-Billancourt, France",
+      "website": "",
+      "endDate": "Dec 2016",
+      "highlights": [
+        "Application and infrastructure containerization",
+        "Research and development on containers",
+        "Implementation of a logging management solution",
+        "Web scrapping",
+        "Python application development"
+      ],
+      "position": "Backend Developer - DevOps",
+      "startDate": "Jun 2016"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Golang"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Ansible",
+        "Bash scripting",
+        "Docker"
+      ],
+      "name": "DevOps"
+    },
+    {
+      "keywords": [
+        "Amazon Web Services",
+        "Google Cloud Platform",
+        "OVH"
+      ],
+      "name": "Cloud infrastructure administration"
+    },
+    {
+      "keywords": [
+        "ELK stack (Elasticsearch, Logstash, Kibana)",
+        "Prometheus",
+        "Grafana"
+      ],
+      "name": "Monitoring and observability"
+    },
+    {
+      "keywords": [
+        "Production management and supervision",
+        "Postmortems redaction",
+        "Incident management"
+      ],
+      "name": "Site Reliability Engineering"
+    }
+  ],
+  "projects": [
+    {
+      "url": "https://github.com/tbobm/odin",
+      "keywords": [
+        "Python",
+        "Prometheus",
+        "Docker",
+        "Grafana",
+        "Ansible"
+      ],
+      "name": "Odin",
+      "description": "Simple remote target monitoring and alerting in Python"
+    },
+    {
+      "keywords": [
+        "Python"
+      ],
+      "name": "Etnawrapper",
+      "description": "Python library to interact with ETNA's APIs",
+      "url": "https://github.com/tbobm/etnawrapper"
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
