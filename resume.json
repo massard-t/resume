@@ -33,12 +33,12 @@
   "work": [
     {
       "highlights": [
-        "Server fleet management",
-        "Research and development",
-        "AWS and GCP administration",
-        "AWS to GCP fleet migration",
+        "Server fleet administration",
+        "Research and development about automatisation, scalability and monitoring",
+        "AWS and GCP infrastructure management",
+        "AWS to GCP migration",
         "Setup monitoring and observability open source solutions",
-        "Infrastructure management"
+        "Create processes involving best practices"
       ],
       "company": "Memento",
       "position": "DevOps",
@@ -48,8 +48,8 @@
     },
     {
       "highlights": [
-        "Teach Python, Windows Server administration, Basic linux system administration and Networking basics.",
-        "Manage student from 1st to 4th year",
+        "Teaching Python, Windows Server administration, basic Linux system administration and networking basics.",
+        "Supervise students from 1st to 4th year",
         "Content creation and online video courses",
         "Grade student presentations"
       ],
@@ -63,7 +63,7 @@
       "highlights": [
         "Python application development",
         "Incident management",
-        "Manage production servers"
+        "Managing production servers (on-premises)"
       ],
       "company": "1000Mercis (numberly)",
       "position": "DevOps Engineer Assistant",
@@ -78,7 +78,7 @@
       "endDate": "Dec 2016",
       "highlights": [
         "Application and infrastructure containerization",
-        "Research and development on containers",
+        "Research and development involving containers and web scrapping",
         "Implementation of a logging management solution",
         "Web scrapping",
         "Python application development"
@@ -147,8 +147,20 @@
         "Python"
       ],
       "name": "Etnawrapper",
-      "description": "Python library to interact with ETNA's APIs",
+      "description": "Python library to interact with my school's APIs",
       "url": "https://github.com/tbobm/etnawrapper"
+    },
+    {
+      "keywords": [
+        "Ansible",
+        "Gitlab",
+        "Docker",
+        "Prometheus",
+        "Traefik"
+      ],
+      "name": "SPE-CLO5",
+      "description": "(School) Prod-like multi-environment infrastructure with CI/CD, metrics and automated deployments",
+      "url": "https://github.com/tbobm/spe-clo5/"
     }
   ],
   "awards": [
