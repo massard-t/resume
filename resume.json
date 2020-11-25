@@ -92,7 +92,6 @@
       "level": "",
       "keywords": [
         "Python",
-        "NodeJS",
         "Golang"
       ],
       "name": "Programming Languages"
@@ -101,9 +100,7 @@
       "keywords": [
         "Ansible",
         "Bash scripting",
-        "Docker",
-        "Python scripting",
-        null
+        "Docker"
       ],
       "name": "DevOps"
     },
@@ -113,7 +110,7 @@
         "Google Cloud Platform",
         "OVH"
       ],
-      "name": "Cloud Infrastructure Administration"
+      "name": "Cloud infrastructure administration"
     },
     {
       "keywords": [
@@ -121,11 +118,11 @@
         "Prometheus",
         "Grafana"
       ],
-      "name": "Monitoring and Observability"
+      "name": "Monitoring and observability"
     },
     {
       "keywords": [
-        "Production management",
+        "Production management and supervision",
         "Postmortems redaction",
         "Incident management"
       ],
