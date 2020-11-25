@@ -1,25 +1,25 @@
 {
   "selectedTemplate": 6,
   "headings": {
-    "work": "",
-    "awards": ""
+    "work": ""
   },
   "basics": {
     "name": "Theo MASSARD",
-    "email": "tbobm@pm.me",
+    "email": "tbobm@protonmail.com",
     "phone": "+33 6 34 63 30 54",
     "location": {
       "address": "Paris, France"
     },
-    "website": "https://www.linkedin.com/in/theomassard/"
+    "website": "https://github.com/tbobm"
   },
   "education": [
     {
       "institution": "ETNA, école d'alternance en informatique",
       "location": "Ivry-sur-Seine, France",
-      "area": " Master Architecte système, réseau et sécurité - ISR",
       "startDate": "Sep 2015",
-      "endDate": "Nov 2020"
+      "endDate": "Nov 2020",
+      "area": " Architecte système, réseau et sécurité - ISR",
+      "studyType": "Master"
     },
     {
       "location": "Paris, France",
@@ -36,9 +36,11 @@
         "Server fleet administration",
         "Research and development about automatisation, scalability and monitoring",
         "AWS and GCP infrastructure management",
-        "AWS to GCP migration",
-        "Setup monitoring and observability open source solutions",
-        "Create processes involving best practices"
+        "Infrastructure migration from AWS to GCP",
+        "Setup monitoring and observability (open source) solutions",
+        "Create processes involving best practices",
+        "Infrastructure migration to Kubernetes",
+        "Optimize Docker usage: reduce image size, improve build speed"
       ],
       "company": "Memento",
       "position": "DevOps",
@@ -48,8 +50,8 @@
     },
     {
       "highlights": [
-        "Teaching Python, Windows Server administration, basic Linux system administration and networking basics.",
-        "Supervise students from 1st to 4th year",
+        "Teach Python, Docker, Linux systems administration and networking basics",
+        "In charge of students from 1st to 5th year",
         "Content creation and online video courses",
         "Grade student presentations"
       ],
@@ -80,7 +82,6 @@
         "Application and infrastructure containerization",
         "Research and development involving containers and web scrapping",
         "Implementation of a logging management solution",
-        "Web scrapping",
         "Python application development"
       ],
       "position": "Backend Developer - DevOps",
@@ -92,6 +93,7 @@
       "level": "",
       "keywords": [
         "Python",
+        "NodeJS",
         "Golang"
       ],
       "name": "Programming Languages"
@@ -99,18 +101,19 @@
     {
       "keywords": [
         "Ansible",
-        "Bash scripting",
-        "Docker"
+        "Docker",
+        "Kubernetes",
+        "Python scripting",
+        "Bash scripting"
       ],
       "name": "DevOps"
     },
     {
       "keywords": [
         "Amazon Web Services",
-        "Google Cloud Platform",
-        "OVH"
+        "Google Cloud Platform"
       ],
-      "name": "Cloud infrastructure administration"
+      "name": "Cloud Infrastructure Administration"
     },
     {
       "keywords": [
@@ -118,15 +121,23 @@
         "Prometheus",
         "Grafana"
       ],
-      "name": "Monitoring and observability"
+      "name": "Monitoring and Observability"
     },
     {
       "keywords": [
-        "Production management and supervision",
+        "Production management",
         "Postmortems redaction",
         "Incident management"
       ],
       "name": "Site Reliability Engineering"
+    },
+    {
+      "keywords": [
+        "Documentation creation",
+        "Internal communication",
+        null
+      ],
+      "name": "Soft skills"
     }
   ],
   "projects": [
@@ -159,15 +170,24 @@
         "Traefik"
       ],
       "name": "SPE-CLO5",
-      "description": "(School) Prod-like multi-environment infrastructure with CI/CD, metrics and automated deployments",
+      "description": "(School) Production-like infrastructure with CI/CD, metrics and automated deployments",
       "url": "https://github.com/tbobm/spe-clo5/"
+    },
+    {
+      "keywords": [
+        "Docker",
+        "RabbitMQ",
+        "Filebeat",
+        "Logstash",
+        "Ansible"
+      ],
+      "name": "Trail",
+      "url": "https://github.com/tbobm/trail",
+      "description": "Aggregate container logs to access them through a single web page using a filebeat agent on the remote hosts"
     }
   ],
   "awards": [
     {
-      "title": "",
-      "date": "",
-      "awarder": "",
       "summary": ""
     }
   ],
