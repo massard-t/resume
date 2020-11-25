@@ -18,7 +18,7 @@
       "location": "Ivry-sur-Seine, France",
       "startDate": "Sep 2015",
       "endDate": "Nov 2020",
-      "area": " Architecte système, réseau et sécurité - ISR",
+      "area": "Architecte système, réseau et sécurité - ISR",
       "studyType": "Master"
     },
     {
@@ -34,7 +34,7 @@
     {
       "highlights": [
         "Server fleet administration",
-        "Research and development about automatisation, scalability and monitoring",
+        "Research and development around automatisation, scalability and monitoring",
         "AWS and GCP infrastructure management",
         "Infrastructure migration from AWS to GCP",
         "Setup monitoring and observability (open source) solutions",
@@ -170,7 +170,7 @@
         "Traefik"
       ],
       "name": "SPE-CLO5",
-      "description": "(School) Production-like infrastructure with CI/CD, metrics and automated deployments",
+      "description": "School: Production-like infrastructure with CI/CD, metrics and automated deployments",
       "url": "https://github.com/tbobm/spe-clo5/"
     },
     {
@@ -183,7 +183,7 @@
       ],
       "name": "Trail",
       "url": "https://github.com/tbobm/trail",
-      "description": "Aggregate container logs to access them through a single web page using a filebeat agent on the remote hosts"
+      "description": "Aggregate multiple container logs to access them through a single web page"
     }
   ],
   "awards": [
